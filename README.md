@@ -1,4 +1,4 @@
-My name is Moiz-ur-Rehman, and I am currently an intern at DevelopersHub Corporation. I have successfully completed all the tasks that were assigned to me during my internship. The final submission includes all required files, reports, and documentation.
+My name is Moiz-ur-Rehman, and I am currently an intern at DevelopersHub Corporation. I have successfully completed all the tasks that were assigned to me during my internship. The final submission includes all required files, reports, and documentation which concludes my internship of 6 weeks.
 
 # Internship Project
 
@@ -6,8 +6,9 @@ This repository contains all tasks for the internship project.
 
 ## 📌 Tasks
 
-1. **Task 1 AI_MI Engineering - bank_marketing_analysis.ipynb** 
-2. **Task 2 AI_MI Engineering - nba_performance_analysis.ipynb**
+1. **Financial_Time_Series_Anomaly_Detection.ipynb** 
+2. **Multi_Label_Emotion_Recognition_from_Text.ipynb**
+3. **Credit_Risk_Analysis.ipynb**
 
 ## 📌 Instructions to Run
 
