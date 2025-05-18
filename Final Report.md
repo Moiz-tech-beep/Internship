@@ -1,4 +1,4 @@
-""# 🚀 Machine Learning Project Report
+""# 🚀 Artificial Intelligence/Machine Learning Project Report
 
 📊 Final Report – Data Science Internship
 
