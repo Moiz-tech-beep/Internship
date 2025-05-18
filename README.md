@@ -1,4 +1,4 @@
-My name is Moiz-ur-Rehman, and I am currently an intern at DevelopersHub Corporation. I have successfully completed all the tasks that were assigned to me during my internship. The final submission includes all required files, reports, and documentation which concludes my internship of 6 weeks.
+My name is Moiz-ur-Rehman, and I have completed my internship at DevelopersHub Corporation. I have successfully completed all the tasks that were assigned to me during my internship. The final submission includes all required files, reports, and documentation which concludes my internship of 6 weeks.
 
 # Internship Project
 
